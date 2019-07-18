@@ -66,6 +66,7 @@ let numbers = evenNumbers.concat(oddNumbers, primeNumbers);
 console.log (numbers);
 
 ABCD
+123
 
 
 
